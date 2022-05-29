@@ -1,3 +1,6 @@
-# FAQ
+#FAQ
 
-# How many photos can I post?
+#Question 1
+
+#Question 2
+
